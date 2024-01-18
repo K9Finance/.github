@@ -6,7 +6,17 @@
 
   <h1><strong> K9 Finance DAO </strong></h1>
   
-  
+  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/K9finance)
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fk9finance.com)
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fk9finance.com&style=for-the-badge)
+
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fk9finance.com&style=plastic&logo=bitcoin)
+
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FK9finance&logo=x)
+
+
   [Official Website](https://k9finance.com)
   
   <br/>
