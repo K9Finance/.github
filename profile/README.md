@@ -5,24 +5,15 @@
   <br/>
 
   <h1><strong> K9 Finance DAO </strong></h1>
-  
-  ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/K9finance)
-
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fk9finance.com)
-
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fk9finance.com&style=for-the-badge)
-
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fk9finance.com&style=plastic&logo=bitcoin)
-
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FK9finance&logo=x)
 
 
-  [Official Website](https://k9finance.com)
-  
-  <br/>
+[![Static Badge](https://img.shields.io/badge/Visit-Official%20Website?style=for-the-badge&logo=googlechrome&logoColor=%23ffffff&label=Official%20Website&color=%23F52A00)](https://k9finance.com)
+[![Static Badge](https://img.shields.io/badge/%40K9Finance-%40K9Finance?style=for-the-badge&logo=X&logoColor=%23ffffff&label=Follow&color=%2344cc11)](https://twitter.com/K9finance)
+[![Static Badge](https://img.shields.io/badge/K9_Finance_Official-K9_Finance_Official?style=for-the-badge&logo=telegram&logoColor=%23ffffff&label=Join&color=%230088cc)](https://t.me/k9finance)
+
+
   <br/>
 
----
   <div align="center" >
   <i> Powered By: </i>
       <h1> 
