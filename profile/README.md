@@ -15,15 +15,16 @@
 
   <br/>
   
->*a decentralized finance (DeFi) platform that allows users to stake their KNINE tokens to earn rewards on the Shibarium Network.*
+<i>a decentralized finance (DeFi) platform that allows users to stake their KNINE tokens to earn rewards on the Shibarium Network.</i>
+  <br/>
   <br/>
 
   <div align="center" >
-  <i> Powered By: </i>
-      <h1> 
+ <strong> <i> Powered By: </i></strong>
+      <h2> 
         <p><strong>Shibarium</strong></p>
     <img src="https://github.com/K9Finance/.github/raw/master/profile/img/Shibarium Logo.png" height="64px" alt="Shibarium Logo"/>
-        <h1>
+        <h2>
   </div>
 
 </div>
